@@ -330,7 +330,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 12,
+   "execution_count": 11,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -351,7 +351,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 13,
+   "execution_count": 12,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -361,7 +361,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 14,
+   "execution_count": 13,
    "metadata": {},
    "outputs": [
     {
@@ -407,7 +407,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 15,
+   "execution_count": 39,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -416,7 +416,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 16,
+   "execution_count": 40,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -605,7 +605,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 23,
+   "execution_count": 42,
    "metadata": {},
    "outputs": [],
    "source": [
